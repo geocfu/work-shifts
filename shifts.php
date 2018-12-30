@@ -13,7 +13,7 @@ echo '<!doctype html>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="WOL - Server">
         <meta name="author" content="George Mantellos, github.com/geocfu">
-        <title>Work-shit Diary</title>
+        <title>Work-shift Diary</title>
         <!-- Bootstrap core CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
         <meta name="theme-color" content="#0277bd">
